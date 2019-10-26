@@ -1,3 +1,8 @@
+spells.csv
+spells.psv
+words.csv
+words.psv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
